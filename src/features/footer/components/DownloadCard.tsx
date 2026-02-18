@@ -35,6 +35,10 @@ const Wrapper = styled(Box)`
   min-width: 0;
   width: 100%;
   flex-shrink: 0;
+
+  @media (max-width: 380px) {
+    max-width: 355px;
+  }
 `
 
 const Card = styled(Box)`
