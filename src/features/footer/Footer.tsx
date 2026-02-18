@@ -60,8 +60,11 @@ const MobileSocial = styled(Box)`
   @media (max-width: 1200px) {
     display: flex;
     width: 100%;
-    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 60px;
   }
+  
 `
 
 const RightGroup = styled(Box)`
