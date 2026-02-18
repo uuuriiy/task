@@ -1,5 +1,5 @@
 import { Box, styled } from "@mui/material";
-import leftBlockImage from "@/assets/images/ManWithAce.png";
+import leftBlockImage from "@/assets/images/ManWithAce.webp";
 import { DownloadCard } from "./components/DownloadCard";
 import { CertificateSection } from "./components/CertificateSection";
 import { LangSelectWithSocial } from "./components/LangSelectWithSocial";
